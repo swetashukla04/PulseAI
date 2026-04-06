@@ -206,10 +206,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ---
 
-## Contact
-- **Meet T-Bot** - [Discover My Work](https://t-bot-blush.vercel.app/)
-- **Tushar Bhardwaj** - [Portfolio](https://tushar-bhardwaj.vercel.app/)
-- **Connect 1:1** - [Topmate](https://topmate.io/tusharbhardwaj)
-- **GitHub:** [TuShArBhArDwA](https://github.com/TuShArBhArDwA)
-- **LinkedIn:** [Tushar Bhardwaj](https://www.linkedin.com/in/bhardwajtushar2004/)
-- **Email:** [tusharbhardwaj2617@example.com](mailto:tusharbhardwaj2617@example.com)
+
